@@ -1,2 +1,3 @@
 ustcmirror/rsync
 nginx
+openclaw/openclaw:latest
