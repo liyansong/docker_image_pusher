@@ -1,1 +1,1 @@
-debian:latest
+centos:centos8.2.2004
