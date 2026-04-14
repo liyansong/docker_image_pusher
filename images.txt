@@ -1,2 +1,2 @@
-openclaw/openclaw
-nginx
+debian:bookworm-slim
+golang:1.25-bookworm
