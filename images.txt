@@ -1,2 +1,1 @@
-debian:bookworm-slim
-golang:1.25-bookworm
+debian:trixie-backports
