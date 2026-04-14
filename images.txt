@@ -1,1 +1,1 @@
-debian:trixie-backports
+debian:latest
